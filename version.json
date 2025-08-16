@@ -1,6 +1,4 @@
 {
     "version": "1.0.1",
-    "changelog": "Added update log",
-    "docs": "https://pg-scripts-documents.github.io",
-    "releaseDate": "2025-08-16"
+    "updatelog": "Added update log"
 }
