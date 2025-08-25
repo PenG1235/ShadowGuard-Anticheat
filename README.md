@@ -80,5 +80,5 @@
 ## 💰 Pricing & Contact  
 - 🎉 [For full features & support](https://discord.gg/Y5vShuKRZK)
 - 🔥 [Showcase](https://www.youtube.com/watch?v=P59QKid4RgA)
-- 📦 [Purchase: Only $11/1 Months](https://pgscripts.tebex.io/category/anticheat)
+- 📦 [Purchase: Only $11/1 Months](https://www.shadowguardac.space/)
 - 📄 [Documents](https://pg-scripts-documents.github.io/)
