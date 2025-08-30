@@ -37,7 +37,7 @@
 - Anti Dumper [BETA]  
 - Anti NUI DevTools  
 - Anti Resource Rename  
-- Anti Trigger Event (automatically detects and protects every event)  
+- Anti Trigger/Spam Events (Not a blacklists, automatically detects and protects every event)  
 - Anti Stop Resource  
 
 🔫 **WEAPON PROTECTION**
@@ -54,8 +54,7 @@
 - Anti No Recoil  
 - Anti Give Weapon  
 - Anti Remove Weapon  
-- Anti Blacklist Weapons  
-- Anti Blacklist Vehicles  
+- Anti Blacklist Weapons    
 
 🧍 **PLAYER PROTECTION**
 - Anti Godmode  
@@ -75,7 +74,9 @@
 - Anti Spectator  
 - Anti Night Vision  
 - Anti Thermal Vision  
-- Anti Spawn Entity  
+- Anti Spawn/Spam Objects
+- Anti Spawn/Spam Vehicles
+- Anti Spawn/Spam Peds  
 - Anti VDM  
 - Anti Menyoo  
 - Anti Suicide  
@@ -84,7 +85,10 @@
 - Anti Blacklist Commands  
 - Anti Ped Change  
 - Anti Tiny Ped  
-- Anti ParticleFX  
+- Anti ParticleFX
+- Anti Blacklist Vehicles
+- Anti Citizen Mods
+- Anti Play Sounds  
 
 ---
 
