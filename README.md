@@ -45,7 +45,8 @@
 - Anti Magic bullet  
 - Anti Silent aim  
 - Anti Corner shoot  
-- Anti Aim lock  
+- Anti Aim lock
+- Anti Aim assist
 - Anti Reload Hack  
 - Anti Damage Modifier  
 - Anti Change Bullet Type  
